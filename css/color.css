@@ -3,13 +3,25 @@
 }
 
 .blackblue {
-    background-color: #002533;
+    background-color: #1b4448 ;
 }
 
 .smokywhite {
-    background-color: #dae1e3;
+    background-color: #adb7b9;
 }
 
 .tulisanputih {
     color:#dae1e3;
+}
+
+.lightblue {
+    background-color: #c7e7d2;
+}
+
+.tulisanhitam {
+    color: #2f2929; 
+}
+
+.kuning {
+    background-color: #dbee3f;
 }
