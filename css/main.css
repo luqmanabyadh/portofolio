@@ -27,7 +27,20 @@
     display: inline-block;
 }
 
-/* CSS BUAT CONTACT FORM
+.borderin {
+    border: 2.5px solid #eff05e;
+    border-radius: 5px;
+}
+
+.gambarpp {
+  background-image: url(../foto.jpg);
+  background-size: cover;
+  height: 359px;
+  border-radius: 20px;
+  padding: 3px;
+}
+
+/* CSS BUAT CONTACT FORM */
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
